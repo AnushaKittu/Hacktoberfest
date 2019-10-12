@@ -17,7 +17,6 @@ while(lb <= ub):
         lb = mid + 1
     else:
         ub = mid - 1
-
 if flag == 1:
     print("Element Found")
 else:
